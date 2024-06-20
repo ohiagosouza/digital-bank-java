@@ -1,5 +1,3 @@
-package Bank;
-
 import Bank.Accounts.Business.Business;
 import Bank.Accounts.Personal.Private;
 import Bank.Client.ClientBusiness;
